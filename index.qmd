@@ -21,4 +21,18 @@ Pending upload on eCOTS website
 
 ## Materials
 
+
+- [Presentation Slides](https://docs.google.com/presentation/d/15w28lVw2OB1Q4vXV5sBdfJYGZLSJHiMUUeDrFN7-dKc/edit?slide=id.g3e4d0e6df2c_1_76#slide=id.g3e4d0e6df2c_1_76): These slides accompany the video above. 
+
+- [Full Lesson Plan](https://docs.google.com/document/d/1ulyND6GOJg3nnvbmJqTcu6Sf-B9oR_2Bx8nlEm_8XgI/edit?usp=sharing)
+
+- [Example Graph Cards](https://docs.google.com/document/d/18XQ-WbHB2A1PZjmOFQZ-3tIsDlwBgrRwLRPqHJTNswQ/edit?usp=sharing)
+
+- [Writing Effective Alt-Text Slides](https://docs.google.com/presentation/d/1mSystH6sYyUGWt-6iJ5MUkkxwPaJhfS187ymaZxciVM/edit?usp=sharing)
+
+
 ## References
+
+American Statistical Association & National Council of Teachers of Mathematics. (2020). Pre-K-12 guidelines for assessment and instruction in statistics education II (GAISE II): A framework for statistics and data science education. [https://www.amstat.org/docs/default-source/amstat-documents/gaiseiiprek-12_full.pdf?v=1](https://www.amstat.org/docs/default-source/amstat-documents/gaiseiiprek-12_full.pdf?v=1) 
+
+Doğucu, M., Medina, C., & Castro, A. (2026). Hello data science: A friendly introduction with applications. [https://hellodata.science](https://hellodata.science)
