@@ -24,11 +24,11 @@ Pending upload on eCOTS website
 
 - [Presentation Slides](https://docs.google.com/presentation/d/15w28lVw2OB1Q4vXV5sBdfJYGZLSJHiMUUeDrFN7-dKc/edit?slide=id.g3e4d0e6df2c_1_76#slide=id.g3e4d0e6df2c_1_76): These slides accompany the video above. 
 
-- [Full Lesson Plan](https://docs.google.com/document/d/1ulyND6GOJg3nnvbmJqTcu6Sf-B9oR_2Bx8nlEm_8XgI/edit?usp=sharing)
+- [Full Lesson Plan](https://docs.google.com/document/d/1ulyND6GOJg3nnvbmJqTcu6Sf-B9oR_2Bx8nlEm_8XgI/edit?usp=sharing): A detailed lesson plan teachers can use to implement the activity in their courses.
 
-- [Example Graph Cards](https://docs.google.com/document/d/18XQ-WbHB2A1PZjmOFQZ-3tIsDlwBgrRwLRPqHJTNswQ/edit?usp=sharing)
+- [Example Graph Cards](https://docs.google.com/document/d/18XQ-WbHB2A1PZjmOFQZ-3tIsDlwBgrRwLRPqHJTNswQ/edit?usp=sharing): Set of cards that were utilized when implementing the activity.
 
-- [Writing Effective Alt-Text Slides](https://docs.google.com/presentation/d/1mSystH6sYyUGWt-6iJ5MUkkxwPaJhfS187ymaZxciVM/edit?usp=sharing)
+- [Writing Effective Alt-Text Slides](https://docs.google.com/presentation/d/1mSystH6sYyUGWt-6iJ5MUkkxwPaJhfS187ymaZxciVM/edit?usp=sharing): Slides that were used while teaching students.
 
 
 ## References
