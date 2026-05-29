@@ -17,7 +17,6 @@ This interactive lesson engages high school students in exploring data visualiza
 
 ## Video
 
-Pending video upload on eCOTS website.
 
 <center>
 <video src="video.webm" width="640" height="360" controls>
